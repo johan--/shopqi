@@ -61,3 +61,6 @@ data/*
 dump.rdb
 resque.pid
 resque_scheduler.pid
+
+.ruby-*
+bin/
